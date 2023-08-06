@@ -1,0 +1,33 @@
+h1 {   
+    color: red;  
+}   
+h5 {   
+    color: green;   
+}   
+h2 {   
+    color: green;  
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:yellow;
+    text-decoration: dashed;
+
+}  
+
+p {  
+color: red;   
+}  
+a {  
+color: red;   
+}  
+h { 
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#abc {
+    text-decoration: underline;
+    border-color: hsl(16, 100%, 50%);
+}
+footer {
+
+    color: aqua;
+}
